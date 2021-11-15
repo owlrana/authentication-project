@@ -2,4 +2,4 @@
 
 The full working application with mongodb connected database is deployed on Heroku, at below link:
 
-https://www.bit.ly/AuthenticationProjectRana
+https://bit.ly/authentication-project-rana
