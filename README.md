@@ -1,4 +1,4 @@
-# Authentication Testing Site by Rahul Rana
+# Authentication Project by Rahul Rana
 
 The full working application with mongodb connected database is deployed on Heroku, at below link:
 
